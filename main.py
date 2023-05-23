@@ -1,5 +1,7 @@
-print("Add your own print-line below")
+# GitHub quick-start test project
 
-# new lines to be added here
+# add new lines below
+# use python commands or comment lines starting with '#'
+
+print("Add your own line below")
 print("line added by Annimari")
-
