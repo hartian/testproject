@@ -5,3 +5,7 @@
 
 print("Add your own line below")
 print("line added by Annimari")
+
+print("Line added by Nadia")
+print("clouds") #and sun
+
